@@ -8,6 +8,7 @@ label {
 
 input[type=text] {
   width:28vw;
+  height:8vw;
   font-size:1vw;
   border-radius:0px;
   transition: border-radius 0.15s linear;
