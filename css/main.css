@@ -24,7 +24,7 @@ input[type=text]:focus {
   border: 1vw;
   padding: 4.95vw;
   overflow-x: hidden;
-  border-radius: 100px;
+  border-radius: 25px;
   background-color: #ffffff;
   font-size: 1vw;
 }
