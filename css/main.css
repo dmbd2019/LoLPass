@@ -29,4 +29,15 @@ input[type=text]:focus {
   font-size: 2vw;
 }
 
+.button {
+  background-color: #363636;
+  border: none;
+  color: white;
+  padding: 0.5vw 0.75vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2vw;
+}
+
 label, input, small, h1, h2, p, textarea, span, tr, a, li, div {color: black;font-family: 'Quicksand', sans-serif;}
