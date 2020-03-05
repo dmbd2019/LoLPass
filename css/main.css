@@ -12,6 +12,10 @@ input {
   border-style:outset;
 }
 
+input:focus {
+  border-radius:10px;
+}
+
 .form {
   width: 30vw;
   border: 1vw;
