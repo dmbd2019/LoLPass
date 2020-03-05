@@ -1,0 +1,24 @@
+body {
+  background-color: #363636;
+}
+
+label {
+  font-size:2vw;
+}
+
+input {
+  width:28vw;
+  font-size:2.5vw;
+}
+
+.form {
+  width: 30vw;
+  border: 1vw;
+  padding: 4.95vw;
+  overflow-x: hidden;
+  border-radius: 2px;
+  background-color: #ffffff;
+  font-size: 2vw;
+}
+
+label, input, small, h1, h2, p, textarea, span, tr, a, li, div {color: black;font-family: 'Quicksand', sans-serif;}
