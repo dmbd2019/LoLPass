@@ -3,7 +3,7 @@ body {
 }
 
 label {
-  font-size:2vw;
+  font-size:1vw;
 }
 
 input[type=text] {
@@ -20,13 +20,13 @@ input[type=text]:focus {
 }
 
 .form {
-  width: 30vw;
+  width: 40vw;
   border: 1vw;
   padding: 4.95vw;
   overflow-x: hidden;
   border-radius: 2px;
   background-color: #ffffff;
-  font-size: 2vw;
+  font-size: 1vw;
 }
 
 input[type="submit"] {
@@ -37,7 +37,7 @@ input[type="submit"] {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 2vw;
+  font-size: 1vw;
   border-radius:1vw;
 }
 
