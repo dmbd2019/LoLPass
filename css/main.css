@@ -6,13 +6,13 @@ label {
   font-size:2vw;
 }
 
-input {
+input[type=text] {
   width:28vw;
   font-size:2.5vw;
   border-style:outset;
 }
 
-input:focus {
+input[type=text]:focus {
   border-radius:10px;
 }
 
