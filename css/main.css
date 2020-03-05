@@ -9,6 +9,7 @@ label {
 input {
   width:28vw;
   font-size:2.5vw;
+  border-style:outset;
 }
 
 .form {
