@@ -38,6 +38,7 @@ input[type="submit"] {
   text-decoration: none;
   display: inline-block;
   font-size: 2vw;
+  border-radius:1vw;
 }
 
 label, input, small, h1, h2, p, textarea, span, tr, a, li, div {color: black;font-family: 'Quicksand', sans-serif;}
